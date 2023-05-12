@@ -36,6 +36,7 @@
     "bootstrap": "^5.2.1",
     "cookies-next": "^2.1.1",
     "cross-fetch": "^3.1.4",
+    "css": "^3.0.0",
     "date-fns": "^2.25.0",
     "dom-to-image": "^2.6.0",
     "dompurify": "^2.3.9",
@@ -51,6 +52,7 @@
     "multer": "^1.4.5-lts.1",
     "next": "^13.1.1",
     "node-fetch": "^3.2.3",
+    "openai": "^3.2.1",
     "pdf-lib": "^1.17.1",
     "react": "^18.2.0",
     "react-bootstrap": "^2.5.0",
@@ -70,7 +72,8 @@
     "reactstrap": "^9.0.2",
     "sass": "^1.39.2",
     "sass-loader": "^10.1.1",
-    "simplebar-react": "^2.3.6"
+    "simplebar-react": "^2.3.6",
+    "tailwind": "^4.0.0"
   },
   "devDependencies": {
     "eslint": "7.32.0",
